@@ -133,4 +133,7 @@ Os resultados são visualizados usando a função visualizar_resultados para amb
 
 
 
+Vídeo com explicação do código: https://fiapcom-my.sharepoint.com/:v:/r/personal/rm553179_fiap_com_br/Documents/Grava%C3%A7%C3%B5es/Reuni%C3%A3o%20com%20Eduardo%20Enrico%20Medea%20Cersani-20231201_205006-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?csf=1&web=1&e=VgkI96&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
 
